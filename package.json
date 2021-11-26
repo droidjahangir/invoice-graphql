@@ -22,5 +22,6 @@
   },
   "keywords": [],
   "author": "Jahangir Alam",
-  "license": "ISC"
+  "license": "ISC",
+  "proxy": "https://invoice-graphql.herokuapp.com/"
 }
